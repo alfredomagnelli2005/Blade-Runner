@@ -177,6 +177,16 @@ footer {
   margin-top: 40px;
 }
 
+footer a {
+  color: #66ccff; /* blu chiaro */
+  text-decoration: none; /* opzionale: rimuove la sottolineatura */
+}
+
+footer a:hover {
+  text-decoration: underline; /* opzionale: sottolinea al passaggio del mouse */
+}
+
+
 /* Avviso moderno */
 .avviso {
   max-width: 850px;
